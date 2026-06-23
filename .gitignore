@@ -1,0 +1,20 @@
+# Data
+data/raw/
+data/processed/
+vector_store/
+
+# Environment & configs
+.env
+.vscode/
+
+# Python cache
+__pycache__/
+*.pyc
+venv/
+.env
+.vscode/    
+# Logs
+*.log
+
+# Jupyter
+.ipynb_checkpoints/
