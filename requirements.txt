@@ -4,6 +4,7 @@ matplotlib
 seaborn
 scikit-learn
 sentence-transformers
+transformers
 faiss-cpu
 chromadb
 langchain
