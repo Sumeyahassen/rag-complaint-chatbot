@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # rag-complaint-chatbot
 # RAG Complaint Chatbot
 
@@ -31,3 +32,6 @@ This project is organized into tasks to gradually build the pipeline.
 - **[Evaluation](ca://s?q=Evaluation_in_AI_projects)**: tested with sample questions (e.g., “What are the most common credit card complaints?”).
 
 
+=======
+# rag-complaint-chatbot
+>>>>>>> task-3
