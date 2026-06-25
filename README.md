@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # rag-complaint-chatbot
 # RAG Complaint Chatbot
 
@@ -30,8 +29,21 @@ This project is organized into tasks to gradually build the pipeline.
 - **[Prompt template](ca://s?q=Prompt_engineering_in_RAG)**: guides the LLM to answer using retrieved context only.
 - **[Generator](ca://s?q=LLM_for_customer_feedback)**: uses lightweight model (`flan‑t5-base` or `flan‑t5-small`) to produce answers.
 - **[Evaluation](ca://s?q=Evaluation_in_AI_projects)**: tested with sample questions (e.g., “What are the most common credit card complaints?”).
+## Usage
+
+### Run Evaluation
+To test the pipeline and log answers:
+```bash
+python src/evaluation.py
+python src/chatbot.py
+
+---
+
+## Add requirements.txt
+Create a file named `requirements.txt` in your project root with:
+
+Then install everything with:
+```bash
+pip install -r requirements.txt
 
 
-=======
-# rag-complaint-chatbot
->>>>>>> task-3
