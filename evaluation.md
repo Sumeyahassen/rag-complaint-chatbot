@@ -33,5 +33,7 @@
 | What problems occur with money transfers? | Long narrative about blocked/stolen transfers | 3 | Informative but too long |
 | Do consumers report problems with customer service? | No | 2 | Likely incomplete |
 | Are there complaints about interest rates? | Yes | 3 | Too short, needs context |
+ to run  this command
+ streamlit run app.py
 
 
