@@ -20,7 +20,7 @@ st.markdown("""
     
     /* Sleek Title Gradient */
     .title-gradient {
-        background: linear-gradient(90deg, #00C9FF 0%, #92FE9D 100%);
+        background: linear-gradiecchnt(90deg, #00C9FF 0%, #92FE9D 100%);
         -webkit-background-clip: text;
         -webkit-text-fill-color: transparent;
         font-size: 3rem;
